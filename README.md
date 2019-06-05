@@ -1,4 +1,4 @@
-We made an array of animals and made buttons out of them. You should choose a list of your own liking. Maybe it's tv shows or musicians.
+Using an array of animals and a gihpy API, a series of animals based on list appears. 
 
 When you click on a button, we get 10 images from giphy and put them on the page.
 
